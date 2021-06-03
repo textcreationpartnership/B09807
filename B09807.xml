@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposition for the raising of 1500001. to be advanced and let to His Majesty whereas there is owing to the late farmers of the customs the sume of 253242l. 13s. 5d. or thereabouts which they advanced aforehand unto His Late Majesty upon the contract for his customs as by tallies or constats threof may appear a very large part whereof they borrowed and became ingaged for ...</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09807</idno><idno type="EEBO-CITATION">62369613</idno>
+  <idno type="VID">188098</idno>
+  <idno type="EEBO-PROQUEST">2240859013</idno>
+  
+            <idno type="STC">Wing P3774D</idno>
+            <idno type="STC">ESTC R182209</idno>
+            <idno type="OCLC">62369613</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188098)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposition for the raising of 1500001. to be advanced and let to His Majesty whereas there is owing to the late farmers of the customs the sume of 253242l. 13s. 5d. or thereabouts which they advanced aforehand unto His Late Majesty upon the contract for his customs as by tallies or constats threof may appear a very large part whereof they borrowed and became ingaged for ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>"Dated the 20th day of April, 1661."</note>
+                  <note>Imperfect: title cropped with slight loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188098:1"/>
+            <div type="part">
+               <head>PRO<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>OS<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For the Raising of 150000<seg rend="sup">l.</seg> to be Advanced and Lent TO HIS MAJESTY.</head>
+               <p>WHEREAS There is owing to the late Farmers of the Customs, the Sum of 253242 <hi>l.</hi> 13 <hi>s.</hi> 5 <hi>d.</hi> or thereabouts, which they advanced aforehand unto His late Majesty, upon the Contract for His Cu<g ref="char:EOLhyphen"/>stoms, as by Tallies or Constars thereof may appear, a very large part whereof they borrowed and became ingaged for.</p>
+               <p>
+                  <hi>It is Propounded,</hi> If the said Farmers and their Creditors, can and shall raise the Sum of 150000 <hi>l.</hi> to be Advanced <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Lent His Majesty, and to be paid in within a Moneth, That then the said Money so advanced and Lent, as also <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he said Debt of 253242 <hi>l.</hi> 13 <hi>s.</hi> 5 <hi>d.</hi> shall be paid to the said Farmers and Creditors respectively, within the com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ass of four year from the 24<seg rend="sup">th</seg> day of <hi>June</hi> next coming 1661. in manner following, <hi>viz.</hi> The money so to be Ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anced and Lent to be Repaid with Interest thereof, at three equal Payments, half yearly from the said 24<seg rend="sup">th</seg> of <hi>June,</hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>661. and the Principal money or old Debt of 253242 <hi>l.</hi> 13 <hi>s.</hi> 5 <hi>d.</hi> to be paid them by five equal Payments, half <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>early within the remainder of the said four years, after the three first half years. All which to be secured by His Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esties Customs; and in case of failing thereof, then to be furhter secured by the Excise.</p>
+               <p>If this Proposition shall be acceptable to His Majesty, then in all humbleness His Approbation under His Signe Manual, is desired for the better and more speedy effecting thereof</p>
+               <closer>
+                  <dateline>
+                     <date>April 9. 1661.</date>
+                  </dateline>
+                  <signed>Subscribed by
+<list>
+                        <item>JOB HARBY.</item>
+                        <item>JO: JACOB.</item>
+                        <item>NICH: CRISP.</item>
+                        <item>JO: HARRISON.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>I approve of this Proposition, and the Lord Treasurer is to perfait it.</p>
+                  <closer>
+                     <signed>C. R.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="part">
+               <p>His Majesty having most graciously approved of this Proposition, the only Remedy for the satisfaction of this great Debt, If it shall please the <hi>East India</hi> Company interessed in that joint Stock, to double their remaining principal Deb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and the rest of the Creditors to double also their remaining principal Debts, We the said late Farmers (being dis<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harged of all Obligations and Incumbrances whatsoever, concerning the same Debt, both in our Persons and Estates, thereby we may be made capable) will undertake by our selves and friends to bring in 50000 <hi>l.</hi> to adde to the rest of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Doubling, to make up the said 150000 <hi>l.</hi> for which sufficient security according to the Proposition shall be passed <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o several Feoffees to be indifferently nominat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; whereupon we have first here unto Subscribed, hoping that with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ten days after the Date hereof, the said Company and Creditors will also Subscribed, and that all of us may procure <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Money according to the Proposition abovesaid.</p>
+               <closer>
+                  <dateline>Dated <date>the 20th. day of <hi>April,</hi> 1661.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
